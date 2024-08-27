@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868062984843",
+    "project_id": "kcgc-e80ea",
+    "storage_bucket": "kcgc-e80ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868062984843:android:6c0e01b9343ccfca59728e",
+        "android_client_info": {
+          "package_name": "com.example.kcgc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fIy3nGagDQsbmhr2osggOpUJd-UPUOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
